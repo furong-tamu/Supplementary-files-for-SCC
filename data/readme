@@ -1,0 +1,2 @@
+The subfolder contains the data for producing the Figures and Tables. 
+Note that the data stored in data_Figure3.RData are exactly the same as those in cluster_w.mat but in a different file format.
