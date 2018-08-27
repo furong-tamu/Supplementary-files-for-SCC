@@ -9,8 +9,9 @@ Some important notes are as follows:
      RNetCDF package for R to handle data files in netcdf format, 
      spgwr package for R to perform GWR,
      glmnet package for R to perform lasso,
-     devtools package for R to download penreg package that solves the generalized lasso package.
+     devtools package for R to download penreg package that solves the generalized lasso package，
+     R.matlab package for R to read data stored in matlab data format (.mat).
 (2)  The master matlab script run_SCC.m can be used to reproduce the figures and tables in the manuscript. Detailed 
      instructions are included in run_SCC.m.
-(3)  Reproducing Figure 4 requires solving the generalized lasso, which will take several days.
+(3)  Reproducing Figure 3 requires solving the generalized lasso, which may take days to run.
 (4)  Please use R version 3.3.3. The compilation of package penreg may not be successful on other versions.  
