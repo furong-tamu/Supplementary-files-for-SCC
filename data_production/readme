@@ -1,1 +1,3 @@
-This subfolder contains the codes for generation of data files in the subfolder Data.
+This subfolder contains the codes to produce the real and simulated data files in this package.
+These data files have been already included in the subfolder "data" in this package. 
+So it is not necessary to run this script to make the data files available.
